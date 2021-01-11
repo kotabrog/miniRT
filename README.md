@@ -1,6 +1,8 @@
 # miniRT
 
-![image1](https://github.com/kotabrog/miniRT/blob/main/image/miniRT_image.png) ![image2](https://github.com/kotabrog/miniRT/blob/main/image/miniRT_image2.png)
+<p align="center">
+	<img src="https://github.com/kotabrog/miniRT/blob/main/image/miniRT_image.png" width=40%>  <img src="https://github.com/kotabrog/miniRT/blob/main/image/miniRT_image2.png" width=40%>
+</p>　
 
 ## Overview
 
