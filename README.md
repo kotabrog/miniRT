@@ -1,7 +1,7 @@
 # miniRT
 
-![image1](https://github.com/kotabrog/miniRT/blob/main/image/miniRT_image.gif)
-![image2](https://github.com/kotabrog/miniRT/blob/main/image/miniRT_image2.gif)
+![image1](https://github.com/kotabrog/miniRT/blob/main/image/miniRT_image.png)
+![image2](https://github.com/kotabrog/miniRT/blob/main/image/miniRT_image2.png)
 
 ## Overview
 
